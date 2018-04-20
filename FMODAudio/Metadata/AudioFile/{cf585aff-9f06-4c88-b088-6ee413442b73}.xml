@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{cf585aff-9f06-4c88-b088-6ee413442b73}">
+        <property name="assetPath">
+            <value>Slam-2.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.2965416666666667</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{50cb1ed6-91ca-43ce-b677-926d2f4581ae}</destination>
+        </relationship>
+    </object>
+</objects>

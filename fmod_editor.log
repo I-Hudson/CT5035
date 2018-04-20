@@ -7,13 +7,51 @@
 [LOG] OutputWASAPI::init                       : Output buffer size: 4096 samples, latency: 0.00ms, period: 10.00ms, DSP buffer: 1024 * 4
 [LOG] Thread::initThread                       : Init FMOD stream thread. Priority: 2, Stack Size: 65536, Semaphore: No, Sleep Time: 10, Looping: Yes.
 [LOG] Thread::initThread                       : Init FMOD mixer thread. Priority: 3, Stack Size: 49152, Semaphore: No, Sleep Time: 0, Looping: Yes.
-[LOG] AsyncManager::init                       : manager 0000000063352898 isAsync 0 updatePeriod 0.02
+[LOG] AsyncManager::init                       : manager 000000004FEC1858 isAsync 0 updatePeriod 0.02
 [LOG] AsyncManager::init                       : done
 [LOG] PlaybackSystem::init                     : 
 [LOG] Thread::initThread                       : Init FMOD Studio sample load thread. Priority: 0, Stack Size: 65536, Semaphore: No, Sleep Time: 1, Looping: No.
 [LOG] PlaybackSystem::init                     : done
 [LOG] Thread::initThread                       : Init FMOD Studio bank load thread. Priority: 0, Stack Size: 65536, Semaphore: No, Sleep Time: 1, Looping: No.
 [LOG] Manager::init                            : done.
+[LOG] Manager::readBank                        : fileversion = 100, compatVersion = 99 (oldest = 44, newest = 100)
+[LOG] SoundI::release                          : 187292__yuval__old-attic-wind (0000000043BB4138)
+[LOG] SoundI::release                          :     187292__yuval__old-attic-wind (000000004F7C1718)
+[LOG] SoundI::release                          :     187292__yuval__old-attic-wind (0000000043BB5068)
+[LOG] SoundI::release                          :  (0000000043BAA6C8)
+[LOG] SoundI::release                          :     Mouse-In-Wall-3 (000000004F7C3458)
+[LOG] SoundI::release                          :  (0000000043BAA558)
+[LOG] SoundI::release                          :     Slam (000000004F7C2DD8)
+[LOG] SoundI::release                          :  (0000000043BA99D8)
+[LOG] SoundI::release                          :     Slam-1 (000000004F7C1F38)
+[LOG] SoundI::release                          :  (0000000043BAB3B8)
+[LOG] SoundI::release                          :     Slam-2 (000000004F6B7E98)
+[LOG] SoundI::release                          :  (0000000043BAA3E8)
+[LOG] SoundI::release                          :     Chair-Scrape (000000004F7C2C38)
+[LOG] SoundI::release                          :  (0000000043BAA9A8)
+[LOG] SoundI::release                          :     Chair-Scrape-1 (000000004F7C3AD8)
+[LOG] SoundI::release                          :  (0000000043BAADF8)
+[LOG] SoundI::release                          :     Chair-Scrape-2 (000000004F6B81D8)
+[LOG] SoundI::release                          :  (0000000043BAAB18)
+[LOG] SoundI::release                          :     Creek (000000004F7C3938)
+[LOG] SoundI::release                          :  (0000000043BAB248)
+[LOG] SoundI::release                          :     Creek-1 (000000004F6B8518)
+[LOG] SoundI::release                          :  (0000000043BAA278)
+[LOG] SoundI::release                          :     Mouse-In-Wall (000000004F7C2A98)
+[LOG] SoundI::release                          :  (0000000043BAAC88)
+[LOG] SoundI::release                          :     Mouse-In-Wall-2 (000000004F7C18B8)
+[LOG] SoundI::release                          :  (0000000043BAAF68)
+[LOG] SoundI::release                          :     Clock-Loop (000000004F6B86B8)
+[LOG] Thread::callback                         : FMOD Studio update thread finished.
+[LOG] Thread::callback                         : FMOD Studio bank load thread finished.
+[LOG] Profile::disconnectAll                   : Profiler disconnecting all clients
+[LOG] Thread::callback                         : FMOD Studio sample load thread finished.
+[LOG] LiveUpdate::release                      : 
+[LOG] LiveUpdate::reset                        : Reset connection (reason Disconnected)
+[LOG] Thread::callback                         : FMOD stream thread finished.
+[LOG] Thread::callback                         : FMOD mixer thread finished.
+[LOG] Profile::disconnectAll                   : Profiler disconnecting all clients
+[LOG] SystemI::close                           : Closed.
 [LOG] Manager::readBank                        : fileversion = 100, compatVersion = 99 (oldest = 44, newest = 100)
 [LOG] Manager::readBank                        : fileversion = 100, compatVersion = 99 (oldest = 44, newest = 100)
 [LOG] Manager::readBank                        : fileversion = 100, compatVersion = 99 (oldest = 44, newest = 100)

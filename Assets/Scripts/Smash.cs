@@ -11,11 +11,14 @@ public class Smash : MonoBehaviour
 	{
 		if (collision.gameObject.GetComponent<Rigidbody>().velocity.magnitude > breakVelocity || GetComponent<Rigidbody>().velocity.magnitude > breakVelocity)
 		{
-			//Smash!
-			Destroy(gameObject);
+            //Smash!
+
+            Destroy(gameObject);
 			GameObject smashedItem = Instantiate(brokenPrefab, transform.position, transform.rotation, transform.parent);
-			
-		}
-	}
+            CS_SoundManager.PlaySoundOnObject(smashedItem, "ChinaSmash");
+
+
+        }
+    }
 
 }

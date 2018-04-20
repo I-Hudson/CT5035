@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{7acbdc47-3adf-4c8f-8006-52218fb96094}">
+        <property name="assetPath">
+            <value>Distant-Muffled-Toilet.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>12.202604166666667</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{50cb1ed6-91ca-43ce-b677-926d2f4581ae}</destination>
+        </relationship>
+    </object>
+</objects>

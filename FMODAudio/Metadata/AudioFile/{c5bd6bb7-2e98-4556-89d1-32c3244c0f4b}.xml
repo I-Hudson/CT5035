@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{c5bd6bb7-2e98-4556-89d1-32c3244c0f4b}">
+        <property name="assetPath">
+            <value>187292__yuval__old-attic-wind.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>115.3509375</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{50cb1ed6-91ca-43ce-b677-926d2f4581ae}</destination>
+        </relationship>
+    </object>
+</objects>

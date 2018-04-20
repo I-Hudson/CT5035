@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{61cb9c6d-2326-47e6-bd76-5ccb9b443332}">
+        <property name="assetPath">
+            <value>Mouse-In-Wall-3.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.7425208333333333</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{50cb1ed6-91ca-43ce-b677-926d2f4581ae}</destination>
+        </relationship>
+    </object>
+</objects>
